@@ -1,0 +1,49 @@
+nav {
+    text-align: center;
+    background-color: pink;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-wrapper li {
+    display: inline-block;
+    padding: 0 30px;
+}
+
+.nav-wrapper a {
+    color: red;
+}
+
+#page-two {
+    background-color: lightgrey;
+    height: 300px;
+    padding: 50px 20px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#about {
+    background-color: blue;
+    height: 300px;
+    padding: 50px 20px;
+    left: 0;
+    background-attachment: fixed;
+}
+
+#resume {
+    background-color: green;
+    height: 300px;
+    padding: 50px 20px;
+    background-attachment: fixed;
+}
+
+.row {
+    background-color: red;
+}
